@@ -85,7 +85,7 @@ Fintech Analytics, User Funnel Analysis, Power BI Dashboard, Data Analyst Portfo
 
 You can download and explore the interactive Power BI dashboard directly from this repository:
 
-[Download the Power BI (.pbix) file](./Your_File_Name.pbix)
+[Download the Power BI (.pbix) file](https://github.com/the-abhradeep-banerjee/BharatNXT-Fintech-Analytics-Case-Study/blob/main/BharatNXT%20Fintech%20Analytics%20Case%20Study.pbix)
 
 ---
 
