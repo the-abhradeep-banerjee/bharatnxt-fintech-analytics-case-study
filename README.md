@@ -11,6 +11,8 @@
 
 An **interactive Power BI analytics solution** designed to analyze **user lifecycle, transaction behavior, and revenue drivers** for a fintech platform, enabling **data-driven decisions to improve activation, retention, and monetization**.
 
+Key findings include **~49% churn rate, ~66% transaction success rate, and limited (~10%) discount usage**, highlighting key areas for business improvement.
+
 ---
 
 ## Why This Project Matters
@@ -52,10 +54,12 @@ Fintech Analytics, User Funnel Analysis, Power BI Dashboard, Data Analyst Portfo
 - Performed **data cleaning and transformation using Power Query**  
 - Designed a **data model using relationships (User ↔ Transaction)**  
 - Developed KPIs for **activation, churn, success rate, and revenue trends**  
-- Identified **~49% churn despite activation, indicating retention gap**  
+- Identified **~49% churn despite activation**, highlighting a major retention gap  
+- Observed **~66% transaction success rate**, indicating potential system-level reliability issues  
+- Found **~10% transactions are discounted**, indicating a selective discount strategy  
 - Analyzed **channel quality, geographic performance, and user segments**  
-- Evaluated **transaction success patterns and pricing strategies**  
-- Converted raw data into **actionable business insights and recommendations**
+- Evaluated **transaction success patterns and pricing strategy**  
+- Converted raw data into **actionable business insights and recommendations**  
 
 ---
 
@@ -228,7 +232,7 @@ Identifies churn patterns and user behavior post-activation.
 
 ### Key Insights
 
-- ~49% of activated users are churned  
+- **~49% of activated users are churned**, indicating a significant post-activation drop-off
 - Many churned users completed multiple transactions → retention issue, not activation  
 
 ---
@@ -252,7 +256,7 @@ Evaluates transaction success rates and failures.
 
 ### Key Insights
 
-- Success rate remains consistent across months  
+- **~66% transaction success rate remains consistent across months**, indicating systemic platform-level issues rather than seasonal variation
 - Indicates systemic platform-level issues rather than seasonal variation  
 
 ---
@@ -264,14 +268,15 @@ Analyzes impact of discounts on transactions and revenue.
 
 ### Key Insights
 
-- Discounted transactions do not significantly increase transaction size  
+- **Only ~10% of transactions are discounted**, indicating selective usage
+- Discounted transactions do not significantly increase transaction size, suggesting limited impact on user spending behavior
 - Suggests discounts may not be effectively driving higher value transactions  
 
 ---
 
 ## Business Impact & Recommendations
 
-This analysis enables BharatNXT to move toward **data-driven decision making**.
+This analysis enables BharatNXT to move toward **data-driven decision making**. Addressing these issues can significantly improve user retention, transaction success rates, and revenue efficiency
 
 ### Key Recommendations:
 
