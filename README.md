@@ -310,3 +310,36 @@ This analysis enables BharatNXT to move toward **data-driven decision making**. 
 ---
 
 ## Repository Structure
+
+```
+BharatNXT-Fintech-Analytics-Case-Study
+│
+├── BharatNXT Fintech Analytics Report.pdf
+├── README.md
+│
+├── Screenshots/
+│   ├── 1_User_Funnel_And_Channel_Performance.png
+│   ├── 2_Geographic_And_Segment_Analysis.png
+│   ├── 3_Churn_And_Retention_Analysis.png
+│   ├── 4_Revenue_And_Transaction_Trends.png
+|   ├── 5_Transaction_Quality_And_Success_Rate.png
+│   └── 6_Pricing_And_Discount_Analysis.png
+```
+
+---
+
+## Contributions & Feedback
+
+Contributions, suggestions, and feedback are welcome.  
+If you have ideas to improve the analysis or visualization, feel free to open an issue or submit a pull request.
+
+---
+
+## Let's Connect
+
+If you're looking for a data analyst who can translate data into business insights and business impact, feel free to connect with me.
+
+- Email: abjee62@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/abhradeep-banerjee812/ 
+
+I’m open to Data Analyst, Business Analyst, and Product Analyst roles, with a focus on user behavior, product analytics, and data-driven decision making.
