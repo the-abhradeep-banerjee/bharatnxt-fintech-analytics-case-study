@@ -318,7 +318,7 @@ BharatNXT-Fintech-Analytics-Case-Study
 ├── README.md
 │
 ├── Walkthrough Video/
-│   ├── BharatNXT Fintech Analytics Case Study.mp4
+│   └── BharatNXT Fintech Analytics Case Study.mp4
 |
 ├── Screenshots/
 │   ├── 1_User_Funnel_And_Channel_Performance.png
